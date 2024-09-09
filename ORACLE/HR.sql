@@ -1,4 +1,4 @@
--- Active: 1725502739355@@127.0.0.1@1521@orcl@ALOHA
+-- Active: 1725516651954@@127.0.0.1@1521@orcl@JOEUN
 
 -- ALOHA 계정 생성
 ALTER SESSION SET "_ORACLE_SCRIPT" = TRUE;
@@ -979,6 +979,17 @@ CREATE TABLE MS_REPLY (
       REG_DATE    DATE            DEFAULT sysdate NOT NULL,
       UPD_DATE    DATE            DEFAULT sysdate NOT NULL 
 );
+
+
+
+
+
+
+
+
+
+
+
 
 
 
