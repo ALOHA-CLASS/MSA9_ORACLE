@@ -264,11 +264,11 @@ ex)  SELECT e.emp_name, d.dept_title
     
     SET SERVEROUTPUT ON;
 
-    EXCUTE 프로시저명;
+    EXECUTE 프로시저명;
 
-    EXCUTE 프로시저명(인자1, 인자2, ...);
+    EXECUTE 프로시저명(인자1, 인자2, ...);
 
-    EXCUTE 프로시저명(파라미터1 => 인자1, 파라미터2 => 인자2, ...);
+    EXECUTE 프로시저명(파라미터1 => 인자1, 파라미터2 => 인자2, ...);
 
 
  * 프로시저 삭제
